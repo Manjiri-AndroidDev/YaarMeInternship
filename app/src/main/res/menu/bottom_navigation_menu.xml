@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/home"
+       />
+    <item
+        android:id="@+id/media"
+        android:enabled="true"
+        android:icon="@drawable/reels"
+
+        />
+    <item
+        android:id="@+id/addnew"
+        android:enabled="true"
+        android:icon="@drawable/addnew"
+
+        />
+    <item
+        android:id="@+id/heart"
+        android:enabled="true"
+        android:icon="@drawable/heart"
+
+        />
+    <item
+        android:id="@+id/profile"
+        android:enabled="true"
+        android:icon="@drawable/user"
+        ></item>
+</menu>
